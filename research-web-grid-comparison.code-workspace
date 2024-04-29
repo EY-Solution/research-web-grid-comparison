@@ -1,0 +1,16 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "prettier.configPath": ".prettierrc",
+    "editor.formatOnSave": true,
+    "editor.fontFamily": "D2Coding, Consolas, 'Courier New', monospace",
+    "editor.folding": true,
+    "typescript.tsdk": "node_modules\\typescript\\lib",
+    "vue.complete.casing.props": "autoCamel"
+  }
+}

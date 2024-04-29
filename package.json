@@ -1,0 +1,41 @@
+{
+  "name": "nuxt-app",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev -p 17001",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@grapecity/wijmo.vue2.all": "^5.20241.9",
+    "@progress/kendo-data-query": "^1.7.0",
+    "@progress/kendo-drawing": "^1.20.1",
+    "@progress/kendo-licensing": "^1.3.5",
+    "@progress/kendo-svg-icons": "^2.3.0",
+    "@progress/kendo-theme-default": "^7.2.1",
+    "@progress/kendo-vue-animation": "^4.3.2",
+    "@progress/kendo-vue-buttons": "^4.3.2",
+    "@progress/kendo-vue-data-tools": "^4.3.2",
+    "@progress/kendo-vue-dateinputs": "^4.3.2",
+    "@progress/kendo-vue-dropdowns": "^4.3.2",
+    "@progress/kendo-vue-grid": "^4.3.2",
+    "@progress/kendo-vue-indicators": "^4.3.2",
+    "@progress/kendo-vue-inputs": "^4.3.2",
+    "@progress/kendo-vue-intl": "^4.3.2",
+    "@progress/kendo-vue-progressbars": "^4.3.2",
+    "@progress/kendo-vue-treeview": "^4.3.2",
+    "lodash": "^4.17.21",
+    "lodash-es": "^4.17.21",
+    "nuxt": "^3.11.2",
+    "sass": "^1.75.0",
+    "vue": "^3.4.21",
+    "vue-router": "^4.3.0",
+    "vuetify-nuxt-module": "^0.13.4"
+  },
+  "devDependencies": {
+    "@types/lodash-es": "^4.17.12"
+  }
+}
